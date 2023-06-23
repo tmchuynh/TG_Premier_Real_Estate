@@ -12,6 +12,7 @@ export default function Main() {
     <>
       <ClippedDrawer >
         <FigureExample />
+        <h1>Our Story</h1>
         <CustomTimeline/>
       </ClippedDrawer>
     </>
