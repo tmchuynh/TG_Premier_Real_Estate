@@ -14,7 +14,6 @@ export default function AdvancedCard({ cards }) {
             header={card.header}
             className="md:w-25rem"
           >
-            <p className="m-0">{card.content}</p>
           </Card>
         </div>
       ))}
